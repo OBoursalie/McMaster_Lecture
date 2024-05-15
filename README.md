@@ -1,7 +1,9 @@
 # SMRTTECH_4HM3
-Javascript Code for Lecture "IoT Sensor Data Analytics and Smart Health Systems" from Microsoft Open Source Project https://azure-samples.github.io/raspberry-pi-web-simulator/ <br />
-Demo1_LED.js First demo to turn LED on and off<br />
-Demo2_Temp.js Second demo to acquire data from temperature sensor<br />
-Demo3_IoT_DeviceN.js Third demo to send temperature sensor data from device N to MQTT Broker<br />
+Code for Lecture "IoT Sensor Data Analytics and Smart Health Systems" from Microsoft Open Source Project https://azure-samples.github.io/raspberry-pi-web-simulator/ <br />
+Lecture Slides<br />
+Activity Slides<br />
+Activity1_Sensor.js Second demo to acquire data from temperature sensor<br />
+Activity3_IoT_DeviceN.js Third demo to send temperature sensor data from device N to Broker<br />
 
-Note: You will need a Azure IoT hub to stream data from the virtual sensor
+Note 1: You will need a Azure IoT hub to stream data from the virtual sensor to the broker<br />
+Note 2: You will ned Azure IoT Explorer (https://github.com/Azure/azure-iot-explorer/releases) to receive data from IoT hub<br />
